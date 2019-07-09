@@ -3,7 +3,7 @@
 serial experiments lain のオリジナルロゴ
 ====================================
 
-奥田昌久　作
+奥田晶久　作
 
 adobe Illustrator 5.5→CSあたりに更新済み
 
