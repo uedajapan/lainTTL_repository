@@ -8,17 +8,33 @@ serial experiments lain のオリジナルロゴ
 adobe Illustrator 5.5→CSあたりに更新済み
 
 
-Open sourceとして公開します。
+無償・改変自由として公開します。
 利用にあたってはlain TTL
 ガイドラインと利用規約に則してご利用ください。
 
 https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/
 
 
-改変は自由です。
+個人制作であれば商用は自由です。
+
 
 
 オリジナルに敬意を
 あなたの創る作品に更なる愛を　　　　　　　　2019.7.9
+
+
+
+
+serial experiments lain のナイツロゴ　ジャンク
+====================================
+
+上田　中原　共作　たぶん
+
+AfterEffects　おそらく5あたりのコンポ素材から掘り起こし
+PSDもAIも変換サービスを使ってトライしたが
+おそらくWIN-MACーWINのコピー中に
+ファイル自体が破損したもよう
+
+ごめん、誰か科学力高い人　復元トライしてみてください 2019.7.11
 
 
